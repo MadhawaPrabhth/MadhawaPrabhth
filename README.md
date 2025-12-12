@@ -1,76 +1,93 @@
-<h1 align="center">Hi 👋, I'm Madhawa Gunarathne</h1>
-<h3 align="center">Software Engineering Enthusiast | Full-Stack Developer</h3>
+<!-- Header Section -->
+<h1 align="center">Hi 👋, I'm <span style="color:#4F8EF7">Madhawa Gunarathne</span></h1>
+<h3 align="center">Software Engineering Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4F8EF7&size=22&center=true&vCenter=true&width=600&lines=Undergraduate+at+University+of+Peradeniya;Full+Stack+Developer;AI+%7C+NLP+%7C+Image+Processing+Enthusiast;Always+Learning+New+Technologies">
+</p>
 
 ---
 
-## 🚀 About Me
-I am an undergraduate at the **University of Peradeniya** specializing in **Computer Science and Statistics**.  
-I enjoy building full-stack applications, solving complex problems, and learning modern technologies in software engineering.
+## 🚀 About Me  
+🎓 Undergraduate specializing in **Computer Science & Statistics**  
+💻 Passionate about **Full-Stack Development**, **Software Engineering**, and **AI/ML**  
+🧩 Love building real-world projects & solving challenging problems  
+✨ Currently working on **ClassMaster** & **SK Electricals Platform**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-- ReactJS • Next.js • Angular  
-- JavaScript • TypeScript  
-- HTML5 • CSS3 • Tailwind CSS
+<p>
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-### **Backend**
-- Node.js • Express.js  
-- Java • Spring Boot
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
 
-### **Databases**
-- PostgreSQL • MySQL • MongoDB
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-### **Tools & DevOps**
-- Git • GitHub  
-- Docker • GitHub Actions
-
-### **Other Skills**
-- Python • OpenCV • C
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 ClassMaster – Online Class Management Platform  
-*React • Node.js • Tailwind CSS • MySQL*  
-A full-stack platform for managing online classes.
+### 🔹 **ClassMaster – Online Class Management Platform**
+📌 *React • Node.js • MySQL • Tailwind*  
+A full-stack system for managing online class operations.
 
-### 🔹 HR Chatbot (AI/NLP)  
-*React • Node.js • n8n • Docker*  
-An intelligent chatbot for HR-related queries.
+### 🔹 **HR Chatbot (AI/NLP Project)**
+📌 *React • Node.js • n8n • Docker*  
+An intelligent chatbot to handle HR-related queries.
 
-### 🔹 SK Electricals – E-commerce Platform *(Ongoing)*  
-*Next.js • Node.js • MongoDB*  
-Web platform for an electrical hardware store.
+### 🔹 **SK Electricals – E-commerce Platform (Ongoing)**
+📌 *Next.js • Node.js • MongoDB*  
+A full-stack selling platform for electrical hardware.
 
-### 🔹 Betel Leaf Disease Detector  
-*Python • OpenCV • NumPy*  
-Detects disease percentage on betel leaves using image processing.
+### 🔹 **Betel Leaf Disease Detector**
+📌 *Python • OpenCV • NumPy*  
+Image processing pipeline to detect and calculate disease percentage.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhawaPrabhth&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhawaPrabhth&layout=compact&theme=tokyonight" height="160" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MadhawaPrabhth&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhawaPrabhth&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhawaPrabhth&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/madhawa-gunarathne-859287135/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/MadhawaPrabhth">
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/madhawa-gunarathne-859287135/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*  
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<p align="center">Let’s build something amazing together 🚀</p>
